@@ -1,2 +1,2 @@
 # slow-code
- Repositório para meu instagram sobre programação.
+ Repositório para armazenar os projetos que posto na página do Instagram.

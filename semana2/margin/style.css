@@ -1,0 +1,14 @@
+
+h1{
+    /*topo, direita, inferior, esquerda*/
+    margin: 20px 100px 70px 100px;
+
+    background-color:wheat;
+}
+p{
+    /*vertical, horizontal*/
+    margin: 20px 100px;
+
+    background-color: rgb(27, 135, 230);
+}
+

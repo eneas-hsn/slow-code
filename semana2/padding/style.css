@@ -1,0 +1,8 @@
+
+h1{
+    /*um valor altera todos os lados*/
+    padding: 20px;
+    /*conteúdo sobre border no post anterior da pág*/
+    border: 1px solid blueviolet;
+}
+
